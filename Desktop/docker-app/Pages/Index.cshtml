@@ -1,0 +1,29 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/Index.css">
+    <script src="~/js/bulb.js" defer></script>
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <div class="text-center">
+        <h1 class="display-4">HENLO :3</h1>
+    </div>
+
+    <div class="boss">
+        <div class="btn-end"></div>
+        <button id="switchButton">OFF</button> <!-- Startzustand: OFF -->
+        <div id="bulb"></div>
+    </div>
+
+    <p>Hello, World!</p>
+</body>
+</html>

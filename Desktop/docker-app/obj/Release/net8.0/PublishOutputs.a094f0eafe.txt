@@ -1,0 +1,7 @@
+/home/me/Desktop/docker-app/published/docker-app
+/home/me/Desktop/docker-app/published/appsettings.Development.json
+/home/me/Desktop/docker-app/published/appsettings.json
+/home/me/Desktop/docker-app/published/docker-app.dll
+/home/me/Desktop/docker-app/published/docker-app.deps.json
+/home/me/Desktop/docker-app/published/docker-app.runtimeconfig.json
+/home/me/Desktop/docker-app/published/docker-app.pdb
